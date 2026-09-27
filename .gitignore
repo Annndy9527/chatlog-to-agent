@@ -1,0 +1,25 @@
+# Public files are explicitly allowed below. Everything else stays local.
+/*
+!/.gitignore
+!/README.md
+!/ATTRIBUTION.md
+
+!/docs/
+/docs/*
+!/docs/RUNBOOK.md
+!/docs/PRIVACY.md
+
+!/prompts/
+/prompts/*
+!/prompts/create-assistant.md
+!/prompts/assistant-system.md
+!/prompts/topic-bootstrap.md
+!/prompts/handoff.md
+
+!/examples/
+/examples/*
+!/examples/synthetic-dialogue.md
+
+!/scripts/
+/scripts/*
+!/scripts/check_public.py
