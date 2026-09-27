@@ -4,7 +4,7 @@
 
 ## 1. 准备输入
 
-没有历史聊天也可以从 [虚构演示](../examples/synthetic-dialogue.md)开始。若要用自己的记录，先阅读[隐私边界](PRIVACY.md)，并在本机完成合法导出、核对说话人和时间、删减与脱敏。导出工具的安装和具体兼容性以 [WeChatMsg 项目](https://github.com/little-KaoKao/WeChatMsg)为准；本仓库不包含它的源码或微信进程操作脚本。
+没有历史聊天也可以从 [虚构演示](../examples/synthetic-dialogue.md)开始。若要用自己的记录，先阅读[隐私边界](PRIVACY.md)，并在本机完成合法导出、核对说话人和时间、删减与脱敏。`third_party/WeChatMsg/` 保留本地使用过的上游源码子集；安装方法、版本兼容性和操作以 [WeChatMsg 项目](https://github.com/little-KaoKao/WeChatMsg)为准。本项目不会自动运行其中的微信进程操作脚本。
 
 准备给模型的片段建议保留“谁说的、何时说的、是否已经发送”，去掉不影响分析的身份信息。若图片或语音不能可靠转写，就明确标记为“内容未知”，不要让模型自行补全。
 

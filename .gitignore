@@ -1,8 +1,11 @@
 # Public files are explicitly allowed below. Everything else stays local.
+# The audited third_party/WeChatMsg snapshot is intentionally tracked with git add -f.
+# New files inside that directory stay ignored until individually reviewed.
 /*
 !/.gitignore
 !/README.md
 !/ATTRIBUTION.md
+!/UPSTREAM_SOURCE.json
 
 !/docs/
 /docs/*
