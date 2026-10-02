@@ -1,5 +1,7 @@
 # 从微信聊天导出到 Cherry Studio Mobile 聊天助手
 
+从PC端微信聊天记录导出到Android本地可离线运行全链路均已经更新，可能涉及个人隐私未上传GitHub，如有需要，给我个人主页的邮箱发邮件。
+
 这是一份个人实践记录和可复用的提示词模板：把**自己有权使用的聊天记录**整理成文本，在 Android 版 Cherry Studio 中创建专用助手，借鉴 [Chat.skill](https://github.com/Pronting/chat-skills) 的结构化分析思路，并用独立存档延续长会话。它不是 Chat.skill 的官方移植，也不包含微信客户端、原版 Skill 或任何真实聊天数据。
 
 ## 项目怎么来的
