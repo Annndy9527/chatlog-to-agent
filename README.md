@@ -2,7 +2,7 @@
 
 **本仓库当前公开的文件只是初版。新版已经完成全链路更新，但因文件涉及个人隐私，后续更新不再上传 GitHub，本仓库也不再持续维护。**
 
-初版主要记录了“微信聊天记录导出 → Cherry Studio Mobile 提示词助手”的实践。现在实际使用的新版，已经更新为“PC 微信导出 TXT → Android Operit AI → 原版 Chat.skill”的完整链路。
+初版主要记录了“微信聊天记录辅助导出 → Cherry Studio Mobile 提示词助手”的实践。现在实际使用的新版，已经更新为“PC 微信一键导出 TXT → Android Operit AI → 原版 Chat.skill”的全新完整链路。
 
 **需要新版方案及相关文件，请联系：[854391415@qq.com](mailto:854391415@qq.com)。**
 
